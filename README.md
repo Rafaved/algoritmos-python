@@ -5,10 +5,10 @@ Sou estudante do **1º semestre de Análise e Desenvolvimento de Sistemas (ADS) 
 
 Criei este repositório para documentar a minha jornada na programação. Acredito que a evolução acontece um dia de cada vez, então aqui você vai encontrar meus treinos, meus erros, minhas correções e, principalmente, o meu progresso diário. Sou movido pela curiosidade, por isso **estou sempre buscando estudar e melhorar continuamente**, lapidando meus conhecimentos a cada nova linha de código.
 
-Meu grande objetivo de carreira é atuar na área de dados — especificamente como **Engenheiro de Dados / Desenvolvedor de Banco de Dados**. Por isso, tenho focado bastante não só na lógica de programação, mas também em entender como estruturar, modelar e extrair informações com eficiência.
+Meu grande objetivo de carreira é atuar na área de dados. Por isso, tenho focado bastante não só na lógica de programação, mas também em entender como estruturar, modelar e extrair informações com eficiência.
 
 ## 💼 Buscando minha primeira oportunidade
-Atualmente, estou em busca de um **estágio em Análise/Engenharia de Dados**. 
+Atualmente, estou em busca de um **estágio como dev / Tenho muito interessem na aréa de dados**. 
 Como estudo à noite, tenho total disponibilidade durante o horário comercial. Procuro um ambiente onde eu possa aprender com profissionais experientes, ser desafiado e entregar valor desde o primeiro dia, colocando em prática o que já venho construindo por conta própria.
 
 ---
