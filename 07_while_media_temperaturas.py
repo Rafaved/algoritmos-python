@@ -14,15 +14,19 @@ Regras de Negócio:
 soma_temperatura = 0
 temperatura = 0
 media = 0
-contagem = 1
+contagem = 0
 
 while True:
     temperatura = input("Digite a Temperatura ou digite a palavra SAIR caso queira ver a média:\n").lower()
     if temperatura == "sair":
-        media = soma_temperatura / (contagem - 1)
-        print(f"A média das temperaturas é de {media}")
+        if contagem > 0:
+            media = soma_temperatura / contagem
+            print(f"A média das temperaturas é de {media}")
+        else:
+            print("Nenhuma temperatura foi informada")
         break
     else:
         valor_numero = float(temperatura)
         soma_temperatura+= valor_numero
         contagem+=1
+        
