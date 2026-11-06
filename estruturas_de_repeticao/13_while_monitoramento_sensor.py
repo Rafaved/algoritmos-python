@@ -35,10 +35,13 @@ while True:
     else:
         numeros += valor_numero
         quantidade += 1
-        media = valor_numero / quantidade
-
-        if valor_numero > maior and valor_numero < menor:
+        media = numeros / quantidade
+        if quantidade == 1:
             maior = valor_numero
             menor = valor_numero
-
+        else:
+            if valor_numero > maior:
+                maior = valor_numero
+            if valor_numero < menor:
+                menor = valor_numero
     
